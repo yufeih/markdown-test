@@ -1,8 +1,3 @@
-# markdown-test
-Test how github renders markdown
-
-
-
 ### 3. Specify a destination location
 
 1. In the **Select restore instance** screen specify details of where to restore the virtual machine.
@@ -16,7 +11,9 @@ Test how github renders markdown
 
 2. Select a storage account for the VM: This is mandatory for creating the VM. You can select from existing storage accounts in the same region as the Azure Backup vault. We don’t support storage accounts that are Zone redundant or of Premium storage type.
 
-    If there are no storage accounts with supported configuration, please create a storage account of supported configuration prior to starting restore operation.
 
-    ![Select a virtual network](./media/backup-azure-restore-vms/restore-sa.png)
+
+
+
+    this should be code
 
