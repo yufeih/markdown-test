@@ -45,4 +45,13 @@ explicit code
 - list
 
         code under list 3
+        
+        
+# heading
+
+1. a
+
+  - b
+
+        c
 
