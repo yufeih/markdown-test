@@ -63,3 +63,12 @@ explicit code
 
         c
 
+
+# html test
+
+<ul>
+<li>Always present in Tablet mode.
+
+    Not available in Desktop mode. Title bar back button can be enabled, instead. See [PC, Laptop, Tablet](#PC).
+
+    Users can switch between running in Tablet mode and Desktop mode by going to **Settings &gt; System &gt; Tablet mode** and setting **Make Windows more touch-friendly when using your device as a tablet**.</li>
