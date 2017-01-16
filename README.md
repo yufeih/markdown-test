@@ -1,3 +1,14 @@
+
+`IHttpRequestFeature`
+   Defines the structure of an HTTP request, including the protocol, path, query string, headers, and body.
+
+`IHttpResponseFeature`
+   Defines the structure of an HTTP response, including the status code, headers, and body of the response.
+
+
+
+
+
 adfa
     * a
     * b
