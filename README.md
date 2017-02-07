@@ -1,3 +1,11 @@
+### <a name="to-create-a-boundary"></a>创建边界  
+
+1.  在 Configuration Manager 控制台中，单击“管理” > “层次结构尊重” > “边界”  
+
+2.  在“主页”  选项卡上的“创建”  组中，单击“创建边界” ** Boundary.**。  
+
+
+
 
 `IHttpRequestFeature`  
    Defines the structure of an HTTP request, including the protocol, path, query string, headers, and body.
