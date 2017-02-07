@@ -1,4 +1,4 @@
-### <a name="to-create-a-boundary"></a>创建边界  
+ ### <a name="to-create-a-boundary"></a>创建边界  
 
 1.  在 Configuration Manager 控制台中，单击“管理” > “层次结构尊重” > “边界”  
 
@@ -8,7 +8,7 @@
 
 
 `IHttpRequestFeature`  
-   Defines the structure of an HTTP request, including the protocol, path, query string, headers, and body.
+   Defines the structure of an HTTP request, including the ** protocol **, path, query string, headers, and body.
 
 `IHttpResponseFeature`
    Defines the structure of an HTTP response, including the status code, headers, and body of the response.
