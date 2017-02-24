@@ -1,4 +1,20 @@
- ### <a name="to-create-a-boundary"></a>创建边界  
+
+<tu id="104">*适用范围：System Center Configuration Manager (Current Branch)*</tu>
+
+
+<tu id="105">可以使用 System Center Configuration Manager (Configuration Manager) 中的应用配置策略来分发用户运行应用时可能需要的设置。</tu> <tu id="106">例如，应用可能要求用户指定以下详细信息：</tu>
+- <tu id="107">自定义端口号</tu>
+- <tu id="108">语言设置</tu>
+- <tu id="109">安全设置</tu>
+- <tu id="110">公司徽标之类的品牌设置</tu>
+
+
+
+
+
+
+
+### <a name="to-create-a-boundary"></a>创建边界  
 
 1.  在 Configuration Manager 控制台中，单击“管理” > “层次结构尊重” > “边界”  
 
