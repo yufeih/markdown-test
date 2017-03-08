@@ -11,3 +11,11 @@
 - list
 
       code under list 2
+
+### Nested list and code blocks 3
+
+- a
+
+        b
+        
+      + c
