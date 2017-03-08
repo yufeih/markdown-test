@@ -1,12 +1,13 @@
-### Code and list nesting (Some text.. becomes blockquotes in CommonMark)
+### Nested list and code blocks
 
-2.  list:
+1. a
 
-    ![image](url)
-
-  - a
   - b
 
-        Some text:
-        - a
-        - b
+        c
+        
+### Nested list and code blocks 2        
+
+- list
+
+      code under list 2
