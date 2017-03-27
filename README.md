@@ -1,4 +1,4 @@
-**The file has a *.pfile* file name extension**
+**The file has a * .pfile* file name extension**
 
 
 
