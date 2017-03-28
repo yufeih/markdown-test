@@ -1,3 +1,21 @@
+
+# <a name="create-app-v-virtual-environments-in-system-center-configuration-manager"></a><span data-ttu-id="146e5-103">Erstellen virtueller App-V-Umgebungen in System Center Configuration Manager</span>
+
+<span data-ttu-id="146e5-104">*Gilt für: System Center Configuration Manager (Current Branch)*</span>
+
+<span data-ttu-id="146e5-105">In einer virtuellen App-V-Umgebung (Microsoft Application Virtualization) in System Center Configuration Manager (Configuration Manager) können bereitgestellte virtuelle Anwendungen auf Windows-Clientcomputern ein Dateisystem und die Registrierung gemeinsam nutzen.</span> <span data-ttu-id="146e5-106">Im Gegensatz zu virtuellen Standardanwendungen können diese Anwendungen Daten gemeinsam verwenden.</span> <span data-ttu-id="146e5-107">Virtuelle Umgebungen werden bei der Installation der Anwendung bzw. bei der nächsten Auswertung der auf den Client-PCs installierten Anwendungen auf Clientcomputern erstellt oder geändert.</span> <span data-ttu-id="146e5-108">Sie können diese Anwendungen mit Prioritäten versehen. Falls dann mehrere Anwendungen versuchen, ein Dateisystem oder einen Registrierungswert zu ändern, hat die Anwendung mit der höchsten Priorität Vorrang.</span>  
+
+> [!IMPORTANT]  
+>  <span data-ttu-id="146e5-109">Verlassen Sie sich bei der Sicherheit, z.B. beim Schutz vor Antischadsoftware, nicht auf virtuelle App-V-Umgebungen.</span>  
+
+ <span data-ttu-id="146e5-110">Gehen Sie wie folgt vor, um in Configuration Manager eine virtuelle App-V-Umgebung zu erstellen.</span>  
+
+
+
+
+
+
+
 **a** b*.cs **c**. d **e** f
 
 
