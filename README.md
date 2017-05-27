@@ -6,7 +6,6 @@
  
 # Create VM
 
-asdf
 ---|---
 linux|[wind](sdfsdf)
 ---|---
