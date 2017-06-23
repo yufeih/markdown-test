@@ -1,3 +1,14 @@
+ 
+### Optimierung  
+  
+|Option|Zweck|  
+|------------|-----------|  
+|[\/filealign](../../../csharp/language-reference/compiler-options/filealign-compiler-option.md)|Gibt die Größe der Abschnitte in der Ausgabedatei an.|  
+|[\/optimize](../../../csharp/language-reference/compiler-options/optimize-compiler-option.md)|Aktiviert\/deaktiviert Optimierungen.|  
+  
+  
+ 
+ 
  # header
  a
  # header
