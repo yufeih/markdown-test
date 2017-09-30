@@ -1,3 +1,6 @@
+In members that accept a `searchPattern` parameter, the search string can be any combination of literal characters and two wildcard characters; * and ?. This parameter does not recognize regular expressions. For more information, see the <xref:System.IO.Directory.EnumerateDirectories%28System.String%2CSystem.String%29> method or any other method that uses the `searchPattern` parameter.  
+
+
 a`s
 d`f
 
