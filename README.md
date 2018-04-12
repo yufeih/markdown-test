@@ -1,3 +1,8 @@
+thistargetdoesnothavespaces**testcontent**beforeoraftertheboldtags
+
+thistargetdoesnothavespaces **testcontent**beforeoraftertheboldtags
+
+thistargetdoesnothavespaces **testcontent** beforeoraftertheboldtags
 
 thistargetdoesnothavespaces**[testcontent]**beforeoraftertheboldtags
 
