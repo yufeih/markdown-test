@@ -1,3 +1,15 @@
+
+thistargetdoesnothavespaces**[testcontent]**beforeoraftertheboldtags
+
+thistargetdoesnothavespaces**[testcontent]** beforeoraftertheboldtags
+
+thistargetdoesnothavespaces **[testcontent]** beforeoraftertheboldtags
+
+thistargetdoesnothavespaces **[testcontent]**.
+
+thistargetdoesnothavespaces **[testcontent]**。
+
+
 a ``` b
 a ``\` b
 
