@@ -1,3 +1,6 @@
+你好，**[你好]**。
+
+
 thistargetdoesnothavespaces**testcontent**beforeoraftertheboldtags
 
 thistargetdoesnothavespaces **testcontent**beforeoraftertheboldtags
