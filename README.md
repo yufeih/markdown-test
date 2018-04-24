@@ -1,3 +1,53 @@
+This is a test **Translatable Content** without brackets and with spaces on both ends
+
+This is a test **[Translatable Content]** with brackets and with spaces on both ends
+
+This is a test**Translatable Content**without brackets and without spaces on both ends
+
+This is a test **[Translatable Content]** with brackets and without spaces on both ends
+
+This is a test **Translatable Content**without brackets and with a space before the tag
+
+This is a test **[Translatable Content]** with brackets and with a space before the tag
+
+This is a test**Translatable Content** without brackets and with a space after the tag
+
+This is a test **[Translatable Content]** with brackets and with a space after the tag
+
+This is a test without brackets and with a space before the tag (no text after tag) **Translatable Content**
+
+This is a test with brackets and with a space before the tag (no text after tag) **[Translatable Content]**
+
+This is a test without brackets and without spaces before the tag (no text after tag)**Translatable Content**
+
+This is a test with brackets and without spaces before the tag (no text after tag)**[Translatable Content]**
+
+**Translatable Content** This is a test without brackets and with a space after the tag (no text before tag)
+
+**[Translatable Content]** This is a test with brackets and with a space after the tag (no text before tag)
+
+**Translatable Content**This is a test without brackets and without spaces after the tag (no text before tag)
+
+**[Translatable Content]** This is a test with brackets and without spaces after the tag (no text before tag)
+
+This is a test without brackets and with a space before the tag (period after tag) **Translatable Content**.
+
+This is a test with brackets and with a space before the tag (period after tag) **[Translatable Content]**.
+
+This is a test without brackets and without spaces before the tag (period after tag)**Translatable Content**.
+
+This is a test with brackets and without spaces before the tag (period after tag)**[Translatable Content]**.
+
+This is a test with Japanese content, without brackets and without spaces before the tag (Japanese period after tag) これはテストであり、**Translatable Content**。
+
+This is a test with Japanese content, with brackets and without spaces before the tag (Japanese period after tag) これはテストであり、**[Translatable Content]**。
+
+This is a test with Japanese content, without brackets and without spaces before the tag (Japanese period after tag) これはテストであり**Translatable Content**句読点記号などがあります。
+
+This is a test with Japanese content, with brackets and without spaces before the tag (Japanese period after tag) これはテストであり **[Translatable Content]** 句読点記号などがあります。
+
+
+
 你好，**[你好]**。
 
 
