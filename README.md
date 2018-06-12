@@ -1,3 +1,7 @@
+<span data-ttu-id="9fe5e-101">*a</span><span class="sxs-lookup"><span data-stu-id="9fe5e-101">*a</span></span>
+
+<span data-ttu-id="9fe5e-102">**a</span><span class="sxs-lookup"><span data-stu-id="9fe5e-102">**a</span></span>
+
 
 ### <a id="debug"></a> <span data-ttu-id="63d19-309">Debuggen und Diagnose</span><span class="sxs-lookup"><span data-stu-id="63d19-309">Debugging and Diagnostics</span></span>
 #### <a name="cpu-usage-tool"></a><span data-ttu-id="63d19-310">CPU-Auslastungstool</span><span class="sxs-lookup"><span data-stu-id="63d19-310">CPU Usage Tool</span></span>
