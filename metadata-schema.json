@@ -5,7 +5,6 @@
 		"ms.author"
 	],
 	"dependencies": {
-		// when author is present, ms.author must also present
 		"author": [
 			"ms.author"
 		],
@@ -22,7 +21,6 @@
 				"a",
 				"b"
 			],
-			// Custom rules:
 			"deprecated": "optional name of the new attribute",
 		},
 		"ms.author": {
