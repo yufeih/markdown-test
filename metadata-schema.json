@@ -17,10 +17,6 @@
 			"pattern": "^/dev/[^/]+(/[^/]+)*$",
 			"minLength": 1,
 			"maxLength": 20,
-			"enum": [
-				"a",
-				"b"
-			],
 			"deprecated": "optional name of the new attribute"
 		},
 		"ms.author": {
