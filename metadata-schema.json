@@ -7,7 +7,7 @@
 	"dependencies": {
 		"author": [
 			"ms.author"
-		],
+		]
 	},
 	"properties": {
 		"author": {
