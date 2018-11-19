@@ -12,7 +12,6 @@
 	"properties": {
 		"author": {
 			"type": "string",
-			"format": "date",
 			"description": "Identify the author by GitHub ID. Used for notification.",
 			"pattern": "^/dev/[^/]+(/[^/]+)*$",
 			"minLength": 1,
