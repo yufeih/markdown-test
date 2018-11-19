@@ -43,31 +43,39 @@
 			]
 		},
 		"ms.technology": {
-			"type": "string",
+			"type": "string"
+		}
+	},
+	"allOf": [
+		{
 			"oneOf": [
 				{
-					"dependencies": {
+					"properties": {
 						"ms.prod": {
 							"const": "xamarin"
+						},
+						"ms.technology": {
+							"enum": [
+								"xamarin-android",
+								"xamarin-ios"
+							]
 						}
-					},
-					"enum": [
-						"xamarin-android",
-						"xamarin-ios"
-					]
+					}
 				},
 				{
-					"dependencies": {
+					"properties": {
 						"ms.prod": {
 							"const": "word"
+						},
+						"ms.technology": {
+							"enum": [
+								"content-controls",
+								"vba"
+							]
 						}
-					},
-					"enum": [
-						"content-controls",
-						"vba"
-					]
+					}
 				}
 			]
 		}
-	}
+	]
 }
