@@ -1,0 +1,80 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema",
+	"required": [
+		"author",
+		"ms.author"
+	],
+	"dependencies": {
+		// when author is present, ms.author must also present
+		"author": [
+			"ms.author"
+		],
+	},
+	"properties": {
+		"author": {
+			"type": "string",
+			"format": "date",
+			"description": "Identify the author by GitHub ID. Used for notification.",
+			"pattern": "^/dev/[^/]+(/[^/]+)*$",
+			"minLength": 1,
+			"maxLength": 20,
+			"enum": [
+				"a",
+				"b"
+			],
+			// Custom rules:
+			"deprecated": "optional name of the new attribute",
+		},
+		"ms.author": {
+			"description": "Identify the author by Microsoft alias. Used for reporting."
+		},
+		"ms.date": {
+			"type": "string",
+			"description": "The freshness date (when content was verified accurate). Shows on the published page.",
+			"format": "date",
+		},
+		"ms.topic": {
+			"type": "string",
+			"enum": [
+				"article",
+				"conceptual",
+				"contributor-guide",
+				"interactive-tutorial"
+			]
+		},
+		"ms.prod": {
+			"type": "string",
+			"enum": [
+				"word",
+				"xamarin"
+			]
+		},
+		"ms.technology": {
+			"type": "string",
+			"oneOf": [
+				{
+					"dependencies": {
+						"ms.prod": {
+							"const": "xamarin"
+						}
+					},
+					"enum": [
+						"xamarin-android",
+						"xamarin-ios"
+					]
+				},
+				{
+					"dependencies": {
+						"ms.prod": {
+							"const": "word"
+						}
+					},
+					"enum": [
+						"content-controls",
+						"vba"
+					]
+				}
+			]
+		},
+	}
+}
