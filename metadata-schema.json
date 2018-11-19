@@ -21,7 +21,7 @@
 				"a",
 				"b"
 			],
-			"deprecated": "optional name of the new attribute",
+			"deprecated": "optional name of the new attribute"
 		},
 		"ms.author": {
 			"description": "Identify the author by Microsoft alias. Used for reporting."
@@ -29,7 +29,7 @@
 		"ms.date": {
 			"type": "string",
 			"description": "The freshness date (when content was verified accurate). Shows on the published page.",
-			"format": "date",
+			"format": "date"
 		},
 		"ms.topic": {
 			"type": "string",
@@ -73,6 +73,6 @@
 					]
 				}
 			]
-		},
+		}
 	}
 }
