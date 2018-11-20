@@ -52,15 +52,7 @@
 			"description": "The person's current location. One is a string value for display, while the other two are a pair of number coordinates."
 		},
 		"metadata": {
-			"properties": {
-				"title": {
-					"type": "string",
-					"tags": [
-						"localizable"
-					]
-				}
-			},
-			"type": "object"
+			"$ref": "https://raw.githubusercontent.com/yufeih/markdown-test/09ff878/metadata-schema.json"
 		},
 		"name": {
 			"type": "string"
