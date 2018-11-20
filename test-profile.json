@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/yufeih/markdown-test/c550bce/profile.schema.json",
+	"metadata": {
+		"author": "/dev/null",
+		"ms.author": "yufeih",
+		"ms.prod": "word",
+		"ms.technology": "content-controls"
+	}
+}
