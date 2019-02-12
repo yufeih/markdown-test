@@ -4,6 +4,10 @@
 <a href="feedback-hub:?ref=a">hf</a>
 
 
+
+ - [**Microsoft Edge DevTools Feedback Hub**](feedback-hub:?referrer=microsoftEdge&tabID=2&newFeedback=true&ContextId=344): Protocol and DevTools problems and suggestions through the Feedback Hub app
+
+
 a<nolock>aa</nolock>b
 
 
