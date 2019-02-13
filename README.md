@@ -2,7 +2,7 @@
 
 [a&b](a&b.md)
 
-[a&b](a&amp;b.md)
+[a&amp;b](a&amp;b.md)
 
 <a href="feedback-hub:?ref=a">hf</a>
 
