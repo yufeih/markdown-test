@@ -4,6 +4,12 @@
 
 [a&amp;b](a&amp;b.md)
 
+[a+b](a+b.md)
+
+[a b](a b.md)
+
+[a%20b](a%20b.md)
+
 <a href="feedback-hub:?ref=a">hf</a>
 
 
