@@ -1,5 +1,7 @@
 [s](http:google.com?ref=a)
 
+[a&b](a&b.md)
+
 
 <a href="feedback-hub:?ref=a">hf</a>
 
