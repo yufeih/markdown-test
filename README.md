@@ -10,6 +10,8 @@
 
 [a b](a b.md)
 
+<a href="a b.md">a b</a>
+
 [a%20b](a%20b.md)
 
 [a(b)](a(b).md)
