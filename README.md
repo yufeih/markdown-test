@@ -1,5 +1,3 @@
-[Undo](Access.ComboBox.Undo(even).md)
-
 ## URL encoding and decoding
 
 source | output | visual
@@ -13,17 +11,6 @@ source | output | visual
 `[a(b)](a(b).md)`       | `<a href="a(b).md">`   | [a(b)](a(b).md)
 `[a%28b%29](a%28b%29.md)` | `<a href="a%28b%29.md">` | [a%28b%29](a%28b%29.md)
 
- - [**Microsoft Edge DevTools Feedback Hub**](feedback-hub:?referrer=microsoftEdge&tabID=2&newFeedback=true&ContextId=344): Protocol and DevTools problems and suggestions through the Feedback Hub app
-
-<a href="feedback-hub:?ref=a">hf</a>
-[s](http:google.com?ref=a)
-
-
-a<nolock>aa</nolock>b
-
-
-[Link to space](file with space)
-[Link to space](file_without_space)
 
 #### Restrict Access to Specific Domains 
 If your organization does not allow the ports and protocols to be open to all addresses on the firewall between the active software update point and the Internet, you can restrict access to the following domains, so that WSUS and Automatic Updates can communicate with Microsoft Update: 
@@ -39,6 +26,17 @@ If your organization does not allow the ports and protocols to be open to all ad
 - https://*.update.microsoft.com 
 
 
+ - [**Microsoft Edge DevTools Feedback Hub**](feedback-hub:?referrer=microsoftEdge&tabID=2&newFeedback=true&ContextId=344): Protocol and DevTools problems and suggestions through the Feedback Hub app
+
+<a href="feedback-hub:?ref=a">hf</a>
+[s](http:google.com?ref=a)
+
+
+a<nolock>aa</nolock>b
+
+
+[Link to space](file with space)
+[Link to space](file_without_space)
 
 <span data-ttu-id="9fe5e-101">*a</span><span class="sxs-lookup"><span data-stu-id="9fe5e-101">*a</span></span>
 
