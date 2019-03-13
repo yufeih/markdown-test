@@ -1,28 +1,22 @@
 [Undo](Access.ComboBox.Undo(even).md)
 
-[s](http:google.com?ref=a)
+## URL encoding and decoding
 
-[a&b](a&b.md)
-
-[a&amp;b](a&amp;b.md)
-
-[a+b](a+b.md)
-
-[a b](a b.md)
-
-<a href="a b.md">a b</a>
-
-[a%20b](a%20b.md)
-
-[a(b)](a(b).md)
-
-[a%28b%29](a%28b%29.md)
-
-<a href="feedback-hub:?ref=a">hf</a>
-
-
+source | output | visual
+-------|--------|--------
+`[a&b](a&b.md)`         | `<a href="a&amp;b.md">a&amp;b</a>` | [a&b](a&b.md)
+`[a&amp;b](a&amp;b.md)` | `<a href="a&amp;b.md">a&amp;b</a>` | [a&amp;b](a&amp;b.md)
+`[a+b](a+b.md)`         | `<a href="a+b.md">a+b</a>`         | [a+b](a+b.md)
+`[a b](a b.md)`         | `<p>[a b](a b.md)</p>`                                   | [a b](a b.md)
+`<a href="a b.md">a b</a>` | `<a href="a b.md">a b</a>`                            |  <a href="a b.md">a b</a>
+`[a%20b](a%20b.md)`     | `<a href="a%20b.md">`  | [a%20b](a%20b.md)
+`[a(b)](a(b).md)`       | `<a href="a(b).md">`   | [a(b)](a(b).md)
+`[a%28b%29](a%28b%29.md)` | `<a href="a%28b%29.md">` | [a%28b%29](a%28b%29.md)
 
  - [**Microsoft Edge DevTools Feedback Hub**](feedback-hub:?referrer=microsoftEdge&tabID=2&newFeedback=true&ContextId=344): Protocol and DevTools problems and suggestions through the Feedback Hub app
+
+<a href="feedback-hub:?ref=a">hf</a>
+[s](http:google.com?ref=a)
 
 
 a<nolock>aa</nolock>b
