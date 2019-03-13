@@ -4,7 +4,7 @@ source | output | visual
 -------|--------|--------
 `[a&b](a&b.md)`         | `<a href="a&amp;b.md">a&amp;b</a>` | [a&b](a&b.md)
 `[a&amp;b](a&amp;b.md)` | `<a href="a&amp;b.md">a&amp;b</a>` | [a&amp;b](a&amp;b.md)
-`[a&amp;b](a&amp;amp;b.md)` | `<a href="a&amp;amp;b.md">a&amp;b</a>` | [a&amp;b](a&amp;amp;b.md)
+`[a&amp;amp;b](a&amp;amp;b.md)` | `<a href="a&amp;amp;b.md">a&amp;amp;b</a>` | [a&amp;amp;b](a&amp;amp;b.md)
 `[a+b](a+b.md)`         | `<a href="a+b.md">a+b</a>`         | [a+b](a+b.md)
 `[a b](a b.md)`         | `<p>[a b](a b.md)</p>`                                   | [a b](a b.md)
 `<a href="a b.md">a b</a>` | `<a href="a b.md">a b</a>`                            |  <a href="a b.md">a b</a>
