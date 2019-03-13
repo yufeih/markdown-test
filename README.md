@@ -12,6 +12,8 @@
 
 [a%20b](a%20b.md)
 
+[a(b)](a(b).md)
+
 <a href="feedback-hub:?ref=a">hf</a>
 
 
