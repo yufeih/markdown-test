@@ -11,6 +11,7 @@ source | output | visual
 `[a%20b](a%20b.md)`     | `<a href="a%20b.md">`  | [a%20b](a%20b.md)
 `[a(b)](a(b).md)`       | `<a href="a(b).md">`   | [a(b)](a(b).md)
 `[a%28b%29](a%28b%29.md)` | `<a href="a%28b%29.md">` | [a%28b%29](a%28b%29.md)
+`[a#b.md](a#b.md)` | `<a href="a%28b%29.md">` | [a#b.md](a#b.md)
 
 
 #### Restrict Access to Specific Domains 
