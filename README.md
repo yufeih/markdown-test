@@ -1,6 +1,8 @@
 <a href="#啊">#啊</a>
 <a href="#%E5%95%8A">#%E5%95%8A</a>
 
+<a href="#%E4%B8%8D">#%E4%B8%8D</a>
+
 ## URL encoding and decoding
 
 source | output | visual
@@ -203,6 +205,8 @@ d`f
  <h2 id="%E5%95%8A">%E5%95%8A</h2>
  
  <h2 id="啊">啊</h2>
+ 
+ <h2 id="%E4%B8%8D">%E4%B8%8D</h2>
  
  # header
  a
